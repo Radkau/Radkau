@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/gabrielgomesdesign/" targer="_blank">
   <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrielgomesdesign/" targer="_blank">
+  <a href="www.linkedin.com/in/gabrielgomesdesenvolvedor" targer="_blank">
   <img align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
