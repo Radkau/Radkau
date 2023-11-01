@@ -1,4 +1,4 @@
-# Seja Bem-Vindo, eu sou o Radkau (Gabriel Gomes)!
+# Seja Bem-Vindo, eu sou o Radkau (Gabriel Gomes)
 <br>
 
 🧑🏻‍💻 Eu sou um Desenvolvedor de Software Back-End Junior | Node.js | JavaScript | Typescript | SQL | Git;
