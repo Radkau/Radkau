@@ -1,7 +1,7 @@
 # Seja Bem-Vindo, eu sou o Radkau (Gabriel Gomes)
 <br>
 
-🧑🏻‍💻 Eu sou um Desenvolvedor de Software Back-End Junior | Node.js | JavaScript | Typescript | SQL | Git;
+🧑🏻‍💻 Eu sou um Desenvolvedor de Software Back-End Junior;
 
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na [Cubos Academy](https://cubos.academy/);
 
