@@ -3,15 +3,11 @@
 
 🧑🏻‍💻 Eu sou um Desenvolvedor de Software Back-End Junior;
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na [Cubos Academy](https://cubos.academy/);
+🎓 Formado em Desenvolvimento de Software com Foco em Back-End na [Cubos Academy](https://cubos.academy/);
 
 🛹 Eu gosto de no meu tempo livre andar de skate e jogar jogos de FPS;
 
-📚 Lendo: "As 48 Leis do Poder" - Robert Greene e Joost Elffers.
-
 <br>
-
-### Eu estou estudando... 📝
 <br>
 
 **Linguagens**
@@ -34,7 +30,7 @@
 
 **Tecnologias e Ferramentas**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
